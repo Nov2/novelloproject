@@ -1,0 +1,64 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%;
+}
+
+
+
+.pagina{
+  color: yellow;
+  text-align: center;
+}
+
+.contenitore{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 600px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+
+.right{
+  margin: 60px;
+  padding: 10px;
+}
+
+.barra0{
+  text-align: center;
+  background-color: yellow;
+  width: 800px;
+  height: 35px;
+  line-height: 2em;
+}
+
+.freccia:after{
+  content: "\2192";
+}
+
+.barra{
+  background-color: green;
+  width: 400px;
+  height: 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.barra2 {
+  background-color: orange;
+  width: 550px;
+  height: 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+
+.barra3{
+  background-color: red;
+  width: 140px;
+  height: 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.main{
+  color: white;
+  font-size: 150%
+}
